@@ -1,0 +1,21 @@
+body{
+    background-image: url(background2.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    background-color: gray;
+    color: white;
+    opacity: .92;
+    margin-top: 20px;
+}
+
+.footer {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+
